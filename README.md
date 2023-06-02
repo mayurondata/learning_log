@@ -2,7 +2,7 @@
 
 Learning Log is the final project of the book Python Crash Course by Eric Matthes. The project focuses on making a functional and styled web application using Django and Bootstrap..
 
-the following are the implementation details and summary of the project:
+the following is  the implementation details and summary of the project:
 
 - Developed a web application called Learning Log using the Django framework.
 
